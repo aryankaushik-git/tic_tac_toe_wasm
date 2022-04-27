@@ -1,6 +1,6 @@
 # Building Tic Tac Toe Game in Cpp using Wasm
 
-![1](https://github.com/aryankaushik-git/outreachy/blob/main/aryankaushik/media/Tic%20tac%20toc%20using%20wasm.png)
+![1](https://github.com/aryankaushik-git/tic_tac_toe_wasm/blob/main/Tic%20tac%20toc%20using%20wasm.png)
 
 Clone this repo in your system.
 
